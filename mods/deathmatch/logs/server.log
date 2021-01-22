@@ -1,0 +1,148 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8 [64 bit]
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..o_linux_x64/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[21-01-21 23:46:38] File 'settings.xml' not present, creating new node.
+[21-01-21 23:46:38] Starting resources...
+[21-01-21 23:46:38] ERROR: Couldn't find resource admin. Check it exists.
+[21-01-21 23:46:38] ERROR: Couldn't find resource defaultstats. Check it exists.
+[21-01-21 23:46:38] ERROR: Couldn't find resource helpmanager. Check it exists.
+[21-01-21 23:46:38] ERROR: Couldn't find resource joinquit. Check it exists.
+[21-01-21 23:46:38] ERROR: Couldn't find resource mapcycler. Check it exists.
+[21-01-21 23:46:38] ERROR: Couldn't find resource mapmanager. Check it exists.
+[21-01-21 23:46:38] ERROR: Couldn't find resource parachute. Check it exists.
+[21-01-21 23:46:38] ERROR: Couldn't find resource performancebrowser. Check it exists.
+[21-01-21 23:46:38] ERROR: Couldn't find resource ipb. Check it exists.
+[21-01-21 23:46:38] ERROR: Couldn't find resource reload. Check it exists.
+[21-01-21 23:46:38] ERROR: Couldn't find resource resourcebrowser. Check it exists.
+[21-01-21 23:46:38] ERROR: Couldn't find resource resourcemanager. Check it exists.
+[21-01-21 23:46:38] ERROR: Couldn't find resource scoreboard. Check it exists.
+[21-01-21 23:46:38] ERROR: Couldn't find resource spawnmanager. Check it exists.
+[21-01-21 23:46:38] ERROR: Couldn't find resource voice. Check it exists.
+[21-01-21 23:46:38] ERROR: Couldn't find resource votemanager. Check it exists.
+[21-01-21 23:46:38] ERROR: Couldn't find resource webadmin. Check it exists.
+[21-01-21 23:46:38] ERROR: Couldn't find resource play. Check it exists.
+[21-01-21 23:46:38] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[21-01-21 23:46:38] WARNING: <owner_email_address> not set
+[21-01-21 23:46:38] Server started and is ready to accept connections!
+[21-01-21 23:46:38] To stop the server, type 'shutdown' or press Ctrl-C
+[21-01-21 23:46:38] Type 'help' for a list of commands.
+[21-01-21 23:46:58] Querying MTA master server... no response. Retrying...
+[21-01-21 23:49:38] Available commands:
+
+start                    stop                     stopall                  
+restart                  refresh                  refreshall               
+list                     info                     upgrade                  
+check                    say                      teamsay                  
+msg                      me                       nick                     
+login                    logout                   chgmypass                
+addaccount               delaccount               chgpass                  
+shutdown                 aexec                    whois                    
+debugscript              help                     loadmodule               
+unloadmodule             reloadmodule             ver                      
+sver                     ase                      openports                
+debugdb                  reloadbans               aclrequest               
+authserial               reloadacl                debugjoinflood           
+debuguptime              sfakelag                 
+[21-01-21 23:49:43] Available commands:
+
+start                    stop                     stopall                  
+restart                  refresh                  refreshall               
+list                     info                     upgrade                  
+check                    say                      teamsay                  
+msg                      me                       nick                     
+login                    logout                   chgmypass                
+addaccount               delaccount               chgpass                  
+shutdown                 aexec                    whois                    
+debugscript              help                     loadmodule               
+unloadmodule             reloadmodule             ver                      
+sver                     ase                      openports                
+debugdb                  reloadbans               aclrequest               
+authserial               reloadacl                debugjoinflood           
+debuguptime              sfakelag                 
+[21-01-21 23:49:45] Available commands:
+
+start                    stop                     stopall                  
+restart                  refresh                  refreshall               
+list                     info                     upgrade                  
+check                    say                      teamsay                  
+msg                      me                       nick                     
+login                    logout                   chgmypass                
+addaccount               delaccount               chgpass                  
+shutdown                 aexec                    whois                    
+debugscript              help                     loadmodule               
+unloadmodule             reloadmodule             ver                      
+sver                     ase                      openports                
+debugdb                  reloadbans               aclrequest               
+authserial               reloadacl                debugjoinflood           
+debuguptime              sfakelag                 
+[21-01-21 23:50:30] Server minclientversion is now 1.5.7-9.20621.0
+[21-01-21 23:50:30] CONNECT: WorkableElm38 connected (IP: 192.168.1.115  Serial: 00BAB74F319B3F8D570EC077DD53A452  Version: 1.5.8-9.20802.0)
+[21-01-21 23:50:34] JOIN: WorkableElm38 joined the game (IP: 192.168.1.115)
+[21-01-21 23:50:35] QUIT: WorkableElm38 left the game [Quit]
+[21-01-21 23:51:46] Querying MTA master server... failed! (7 Error downloading requested files. Couldn't connect to server. [Failed to connect to master.mtasa.com port 80: No route to host] [add.php?g=22003&a=22126&h=22005&v=1.5.8-9.20668&x=0_32_0_1_1&ip=])
+[21-01-21 23:54:22] CONNECT: WorkableElm38 connected (IP: 192.168.1.115  Serial: 5DED34F3F4ACB628384A1378076D1F02  Version: 1.5.8-9.20802.0)
+[21-01-21 23:54:22] JOIN: WorkableElm38 joined the game (IP: 192.168.1.115)
+[21-01-21 23:54:58] QUIT: WorkableElm38 left the game [Quit]
+[21-01-21 23:55:49] Available commands:
+
+start                    stop                     stopall                  
+restart                  refresh                  refreshall               
+list                     info                     upgrade                  
+check                    say                      teamsay                  
+msg                      me                       nick                     
+login                    logout                   chgmypass                
+addaccount               delaccount               chgpass                  
+shutdown                 aexec                    whois                    
+debugscript              help                     loadmodule               
+unloadmodule             reloadmodule             ver                      
+sver                     ase                      openports                
+debugdb                  reloadbans               aclrequest               
+authserial               reloadacl                debugjoinflood           
+debuguptime              sfakelag                 
+[21-01-21 23:58:01] sfakelag is not enabled
+[21-01-22 00:08:18] Server stopped!
+[21-01-22 00:08:18] Stopping resources...
+[21-01-22 00:08:18] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8 [64 bit]
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ../MTA Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[21-01-22 20:26:53] Compacting accounts database 'internal.db' ...
+[21-01-22 20:26:53] Resources: 190 loaded, 0 failed
+[21-01-22 20:26:53] Compacting database 'registry.db' ...
+[21-01-22 20:26:54] Starting resources...
+[21-01-22 20:26:54] Admin access list successfully updated 
+[21-01-22 20:26:54] INFO: Admin added 506 missing rights
+[21-01-22 20:26:54] Server minclientversion is now 1.5.7-9.20621.0
+[21-01-22 20:26:54] Gamemode 'play' started.
+[21-01-22 20:26:54] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[21-01-22 20:26:54] WARNING: <owner_email_address> not set
+[21-01-22 20:26:54] Server started and is ready to accept connections!
+[21-01-22 20:26:54] To stop the server, type 'shutdown' or press Ctrl-C
+[21-01-22 20:26:54] Type 'help' for a list of commands.
+[21-01-22 20:26:55] Querying MTA master server... success! (Auto detected IP:95.10.202.245)
+[21-01-22 20:36:08] CONNECT: WorkableElm38 connected (IP: 192.168.1.115  Serial: 5DED34F3F4ACB628384A1378076D1F02  Version: 1.5.8-9.20802.0)
+[21-01-22 20:36:11] JOIN: WorkableElm38 joined the game (IP: 192.168.1.115)
+[21-01-22 20:41:44] QUIT: WorkableElm38 left the game [Quit]
+[21-01-22 20:42:02] Server stopped!
+[21-01-22 20:42:02] Stopping resources.......................
+[21-01-22 20:42:02] Closing SQLite3 database
